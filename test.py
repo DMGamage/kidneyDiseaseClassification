@@ -1,2 +1,2 @@
-def test_git():
+def test_git_new():
     pass
